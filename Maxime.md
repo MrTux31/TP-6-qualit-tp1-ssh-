@@ -9,7 +9,3 @@ Je suis **Maxime Besnier**, étudiant en **informatique** à l'IUT de **Blagnac*
 - **Nom** : Maxime Besnier
 - **Formation** : Informatique, première année à l'IUT de Blagnac
 - **Passions** : Passionné par le développement logiciel, la programmation
-
-## Attention
-
-Certaines personne recopie ce code pour ne pas avoir à se présenter ;)
