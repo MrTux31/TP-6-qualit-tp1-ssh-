@@ -6,6 +6,6 @@ Je suis **Axel Allemane**, étudiant en **informatique** à l'IUT de **Blagnac**
 
 ## À propos de moi
 
-- **Nom** : Maxime Besnier
+- **Nom** : Axel Allemane
 - **Formation** : Informatique, première année à l'IUT de Blagnac
 - **Passions** : Passionné par le développement logiciel, la programmation et la pêche
