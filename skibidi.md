@@ -1,7 +1,15 @@
-# Présentation
+# Présentation de Maxime Besnier
 
-Bonjour, je suis **Maxime Besnier**.
+Bonjour et bienvenue sur mon profil !
 
-Je suis passionné(e) par **Plein de trucs**.
+Je suis **Maxime Besnier**, étudiant en **informatique** à l'IUT de **Blagnac**, actuellement en **première année**.
 
-N'hésitez pas à me contacter à **mon adresse mail**.
+## À propos de moi
+
+- **Nom** : Maxime Besnier
+- **Formation** : Informatique, première année à l'IUT de Blagnac
+- **Passions** : Passionné par le développement logiciel, la programmation
+
+## Attention
+
+Certaines personne recopie ce code pour ne pas avoir à se présenter ;)
